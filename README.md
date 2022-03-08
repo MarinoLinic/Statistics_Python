@@ -1,4 +1,4 @@
-# Statistics_Python
+# Statistics: Python #2
 Playing with various statistical calculations in Python; matplotlib included.
 
 Selected graphs:
